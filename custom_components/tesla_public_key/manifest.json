@@ -1,0 +1,9 @@
+{
+  "domain": "tesla_public_key",
+  "name": "Tesla Public Key",
+  "version": "1.0.0",
+  "documentation": "https://github.com/EffortlessHome/tesla_public_key",
+  "requirements": [],
+  "codeowners": [],
+  "iot_class": "local_push"
+}
